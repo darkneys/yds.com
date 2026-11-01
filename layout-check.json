@@ -1,0 +1,50 @@
+[
+  {
+    "width": 320,
+    "scrollWidth": 320,
+    "textOverflow": [],
+    "overlap": false
+  },
+  {
+    "width": 375,
+    "scrollWidth": 375,
+    "textOverflow": [],
+    "overlap": false
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "textOverflow": [],
+    "overlap": false
+  },
+  {
+    "width": 650,
+    "scrollWidth": 650,
+    "textOverflow": [],
+    "overlap": false
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "textOverflow": [],
+    "overlap": false
+  },
+  {
+    "width": 1024,
+    "scrollWidth": 1024,
+    "textOverflow": [],
+    "overlap": false
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "textOverflow": [],
+    "overlap": false
+  },
+  {
+    "width": 1920,
+    "scrollWidth": 1920,
+    "textOverflow": [],
+    "overlap": false
+  }
+]
